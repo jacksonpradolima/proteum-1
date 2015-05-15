@@ -1,0 +1,10 @@
+PROTEUM - PROGRAM TEST FILE
+Apr-22-15
+V 1.4.1 - C
+             
+compress
+comp
+gcc -o comp compress.c
+Test
+<N O  A N O M A L I E S>
+<A L L   F U N C T I O N S>

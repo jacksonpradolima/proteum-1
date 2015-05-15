@@ -1,0 +1,12 @@
+
+putrep
+     putchar
+
+
+compress
+     getchar             putrep              putchar
+
+
+main
+     compress
+

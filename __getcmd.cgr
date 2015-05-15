@@ -1,0 +1,8 @@
+
+@getcmd
+     strcmp
+
+
+@main
+     printf              exit                getcmd
+
